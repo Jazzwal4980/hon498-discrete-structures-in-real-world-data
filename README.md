@@ -1,2 +1,2 @@
-# Barrett-College-Fellows-Discrete-Structures-in-Real-World-Data-using-Python
+# Barrett College Fellows: Discrete Structures in Real-World Data using Python
 Our project will explore how ideas from discrete mathematics, particularly graphs, sets, logic, and algorithms, can be used to understand and analyze real-world data. We will focus on network-based data, where relationships between people, organizations, locations, or other entities can be represented mathematically using graphs.
