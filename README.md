@@ -3,7 +3,9 @@ Our project will explore how ideas from discrete mathematics, particularly graph
 
 ## Deadlines:
 September 30: Group Report #1 due
+
 October 2: First video assessment
+
 October 25: Individual Report #2 due
 
 ## GROUP REPORT ONE - Graphs, SRGs, and Adjacency Matrices
